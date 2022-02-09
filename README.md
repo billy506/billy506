@@ -3,7 +3,7 @@
 - 👀 I’m interested in data science, computer graphics, and artificial intelligence.
 - 🌱 I’m currently studying as an undergraduate student at University of Virginia.
 - 💞️ I’m looking to collaborate on research conducted with a focus on computer architecture and graphics.
-- 📫 How to reach me: (434)466-1096 or th3xyr@virginia.edu
+- 📫 How to reach me: (434)257-8937 or th3xyr@virginia.edu
 <br/><br/>
 <br/><br/>
 - 👋 您好，我是黄天麟。
