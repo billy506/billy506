@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tianlin Huang 黄天麟
+- 👋 Hi, I’m Tianlin Huang
 - 😀 You can also call me Billy.
 - 👀 I’m interested in data science, computer graphics, and artificial intelligence.
 - 🌱 I’m currently studying as an undergraduate student at University of Virginia.
